@@ -1,0 +1,49 @@
+Shakeapp é uma aplicação mobile para conectar pessoas para comerem juntas
+ou para tomarem um copo.
+
+O publico será pessoas que gostam de comer e que gostam de conhecer pessoas
+novas à mesa. Mostly Travelling people .
+
+- Storyboard
+
+Open the app.
+
+1- We ask if you want to make a small video or take a new picture.
+
+*You can just upload one picture or one video. we want to avoid last
+summer's picture and gallery of pictures! *
+
+*We want to induce people to take pictures each moment they are using the
+app. We ask if they want to make a new picture or a new video all the time
+they open the app, but of course people are not obliged to do it overtime.
+
+Imagem referencia em anexo #1 *
+
+*1.1 They also can write something below her picture describing the mood or
+describing themselves *
+
+*2- Then choose if they want "meat , veggie , sea food or drinks" they can
+choose as many options as they want. *
+
+3- People are listed
+
+*4- You send shakes to people. It's the same thing as sending an invite
+without a place. Also you can invite for a specific restaurant or bar
+nearby *
+
+5- They receive notifications about what you did to them
+
+6- You can chat with people . The chat is erased every 24 hours
+
+*What you have talked was that when somebody already have a clue about what
+restaurant he wants to go he can identify that, and its visible right next
+to the profile picture for exemple a icon that shows that intent. *
+
+*Ok so for now this simple brief about what is the most important to
+implement right away. *
+
+Sending the marvel app demo:
+https://marvelapp.com/2h4hjhd/screen/32658065
+
+This is the app we saw:
+https://anchor.fm
